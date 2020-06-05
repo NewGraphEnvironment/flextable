@@ -20,6 +20,7 @@ ftab <- theme_booktabs(ftab)
 }
 \seealso{
 Other flextable theme: 
+\code{\link{my_theme_booktabs}()},
 \code{\link{theme_alafoli}()},
 \code{\link{theme_box}()},
 \code{\link{theme_tron_legacy}()},
