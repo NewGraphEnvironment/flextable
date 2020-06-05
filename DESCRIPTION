@@ -25,13 +25,13 @@ Imports:
     rmarkdown, knitr, htmltools,
     xml2, data.table, uuid,
     gdtools (>= 0.1.6), rlang, 
-    base64enc
+    base64enc,
+    magrittr
 RoxygenNote: 7.1.0
 Roxygen: list(markdown = TRUE)
 Suggests: 
     testthat (>= 2.1.0),
     xtable,
-    magrittr,
     webshot,
     magick,
     ggplot2, scales, 
